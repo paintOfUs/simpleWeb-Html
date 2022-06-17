@@ -1,0 +1,205 @@
+@media only screen and (min-width: 768px) and (max-width: 991px)
+      /* For tablets: */ {
+      .col-s-1 {width: 8.33%;}
+      .col-s-2 {width: 16.66%;}
+      .col-s-3 {width: 25%;}
+      .col-s-4 {width: 33.33%;}
+      .col-s-5 {width: 58.33%;}
+      .col-s-8 {width: 41.66%;}
+      .col-s-6 {width: 50%;}
+      .col-s-7 {width: 66.66%;}
+      .col-s-9 {width: 75%;}
+      .col-s-10 {width: 83.33%;}
+      .col-s-11 {width: 91.66%;}
+      .col-s-12 {width: 100%;} 
+      body {
+          display: block;
+      }
+      li {
+        font-size: 80%;
+        padding-top: 20px;
+    }
+    .U {
+        font-size: 16px;
+    }
+      #pk1.pk {
+          background-color: #1a1c1f !important;
+          height: 70px;
+          margin: 0px;
+          padding: 0px;}
+          .menu {
+            width: 100%;
+            height: 100%;
+        }
+        li {
+            width: 30px;
+        }
+       .A {
+           padding-left: 3%;
+       } 
+        .B {
+            padding-left: 0px;
+            margin: 0px;
+        }
+        .U2 {
+            padding: -10px
+        }
+        .C {
+            padding-right: -5px;
+        }
+        .E {
+            padding-right: 10px;
+        }
+      #banner1 {
+          background-image: none;
+        width: 100%;
+        height: 100%;
+        text-overflow: clip;
+        word-wrap: break-word;
+        color: black;
+        top: 10px;
+    }
+    
+    #banner {
+        background-image: none;
+        padding-left: 1%;
+        width: 100%;
+        height: 300px;
+    }
+    .D3 {
+        height: 100%;
+        width: 100%;
+    }
+    
+    #abc {
+        padding-bottom: 15px;
+    }
+        
+
+    #column {
+       background-color: white;
+        width: 100%;
+        height: 100%;
+       float: left;
+   
+}
+    
+    
+    #gb {
+        padding-top: 0px;
+        padding-left: 3%;
+        padding-bottom: 10px;
+    }
+    #gb1 {
+        padding-left: 3%;
+    }
+        
+    
+    #column1 {
+        
+        width: 50%;
+        height: 100%;
+        float: left;
+        margin: 0px;
+       padding-left: 3%; 
+    }
+    #column2 {
+      
+        background-color: white;
+        width: 50%;
+        height: 100%;
+        padding-bottom: 0px;
+        margin: 0px;
+    }
+    .row {
+       width: 100%;
+        height: 100%;
+        
+    }
+   #column3 {
+       background-color: white;
+       clear: left;
+        width: 100%;
+        height: 100%;
+        padding-top: 40px;
+       padding-left: 5%;
+       padding-top: -10%;
+       
+   }
+ 
+ 
+
+   .img1 {
+      width: 90%;
+      margin: auto;
+      display: block;
+     
+   }
+   .img2 {
+       width: 90%;
+       margin: auto;
+       display: block;
+     
+      
+   }
+   .img3 {
+       width: 88%;
+       margin: auto;
+      display: block;
+      
+       
+   }
+   .img4 {
+       width: 88%;
+      
+       margin: auto;
+      display: block;
+      
+   }
+  .img5 {
+     width: 45%;
+     height: 50%;
+
+     
+     
+  }
+  .footer {
+    height: 100%;
+    width: 100%;
+    word-break: break-all;
+    background-color: white;
+    float: left;
+}
+#Z {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+.footer1 {
+    width: 100%;
+    
+}
+.footer2 {
+    width: 100%;
+}
+.footer3 {
+    width: 100%;
+}
+h3 {
+    font-size: 32px;
+}
+#b {
+    padding-left: 7%;
+    width: 100%;
+    word-break: break-all;
+}
+#c {
+    width: 100%;
+    word-break: break-all;
+}
+#d {
+    padding-left: 6%;
+    width: 100%;
+    word-break: break-all;
+}
+}

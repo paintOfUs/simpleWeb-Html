@@ -1,0 +1,210 @@
+.header {
+    width: 100%;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.D1 {
+    width: 100%;
+    height: 10%;
+}
+.D2 {
+    width: 100%;
+    height: 30%;
+}
+.D3 {
+    width: 100%;
+    height: 30%;
+}
+.D4 {
+    width: 100%;
+    height: 30%;
+}
+ul {
+    float: left;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 50px;
+    
+}
+li  { 
+    display: inline-block;}
+li a {
+   color: lightslategrey;
+    padding: 10px;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+
+}
+ 
+#E {float: right;
+    width: 15%;
+    font-size: 13px;
+    text-align: center;
+    white-space: nowrap;
+    
+}
+#D {float: right;
+    width: 15%;
+    font-size: 13px;
+    text-align: center;
+    white-space: nowrap;
+   
+}
+#C {float: right;
+    width: 15%;
+    font-size: 13px;
+    text-align: center;
+    white-space: nowrap;
+   
+}
+.A {
+    width: 15%;
+    font-size: 13px;
+    padding-left: 5px;
+    margin-left: 5px;
+    white-space: nowrap;
+}
+.B {font-size: 13px;
+    width: 15%;
+    padding-left: 9px;
+    margin-left: 9px;
+    white-space: nowrap;
+}
+
+  
+    #banner1 {
+        width: 100% !important;
+        height: 100%;
+        text-overflow: clip;
+        color: black;
+        top: 10px;
+    }
+
+
+#banner {
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/ltp/img/lodging.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+        width: 100%;
+        height: 500px;
+}
+#xyz {
+    padding-top: 100px;
+    position: relative;
+   width: 100%;
+   height: 100%;
+   padding-left: 2%;
+font-size: 54px;
+    
+}
+#abc {
+    position: relative;
+  font-size: 18px;
+  width: 100%;
+  height: 100%;
+  padding-left: 2%;
+}
+.row {
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+#gb {
+    width: 100%;
+  padding-left: 60px;
+  padding-top: 40px;
+  font-size: 35px;
+}
+#gb1 {
+    width: 100%;
+    padding-left: auto;
+    margin: 0px 0px 0px;
+    font-size: 15px;
+    padding-bottom: 50px;
+}
+.T {
+   background-color: gainsboro;
+}
+#column {
+    width: 100%;
+    float: left;
+    height: 100%;
+    background-color:  gainsboro;
+
+}
+* { 
+    box-sizing: border-box;
+}
+
+#column1 {
+
+float: left;
+width: 33%;
+
+}
+
+#column2  {
+   width: 33%;
+    float: left;
+}
+#column3 {
+    width: 33%;
+    height: 100%;
+    float: left;
+    }
+/* footer */
+footer {
+   float: left;
+ background-color: whitesmoke;
+ box-sizing: border-box;
+ width: 100%;
+ height: 100%;
+ 
+}
+#Z {
+    float: left;
+    width: 100%;
+}
+
+h3 {
+    font-size: 35px;
+}
+.zero {
+    font-size: 15px;
+}
+#b {
+    float: left;
+    width: 30%;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+#c {
+    float: left;
+    width: 30%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 60px;
+}
+#d {
+    float: right;
+    width: 30%;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 100px;
+   
+}
+.zero {
+padding-bottom: 50px;
+}
+   
+ 
+
